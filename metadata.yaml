@@ -1,0 +1,26 @@
+_repo: Count-Julian_4008
+creator:
+  author:
+    agent_name: Landor, Walter Savage
+    alias: Landor, Savagius
+    birthdate: 1775
+    deathdate: 1864
+    gutenberg_agent_id: '1353'
+    url: http://www.gutenberg.org/2009/agents/1353
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Savage_Landor
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Julián, Governor of Ceuta, active 711 -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Spain -- History -- 711-1516 -- Drama'
+- !lcc 'PR'
+title: Count Julian
+url: http://www.gutenberg.org/ebooks/4008
