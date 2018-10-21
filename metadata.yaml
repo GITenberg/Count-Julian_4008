@@ -1,5 +1,5 @@
 _repo: Count-Julian_4008
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Tragedies'
 - !lcsh 'Spain -- History -- 711-1516 -- Drama'
 - !lcc 'PR'
+- GITenberg
 title: Count Julian
 url: http://www.gutenberg.org/ebooks/4008
